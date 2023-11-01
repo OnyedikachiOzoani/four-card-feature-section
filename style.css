@@ -121,10 +121,6 @@ body {
 /* For desktop */
 
 @media screen and (min-width: 400px) {
-	body {
-		/* padding: 15% 0; */
-	}
-
 	.design-container {
 		padding: 15% 0;
 	}
