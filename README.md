@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Issues faced
 
--   Getting the `#cards` in the desktop to align and position horizontally and vertically like in the design using CSS Grid layout.
+-   Getting the `#cards` in the desktop design to align and position horizontally and vertically like in the design using CSS Grid layout.
 
 ### What I learned
 
