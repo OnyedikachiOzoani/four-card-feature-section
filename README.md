@@ -59,7 +59,7 @@ Users should be able to:
 ### Useful resources
 
 -   [Grid layout using line-based placement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Grid_layout_using_line-based_placement) - This tutorial from MDN DOCS documentation explains how to use line-based placement in positioning grid items.
--   [Decimal numbers not working for the span keyword used in grid layout line placement of grid items](https://stackoverflow.com/questions/77399554/decimal-numbers-not-working-for-the-span-keyword-used-in-grid-layout-line-placem) - I asked this question on StackOverflow about the issue I described here [Issues faced](#issues-faced). The answer was really helpful.
+-   [Decimal numbers not working for the span keyword used in grid layout line placement of grid items](https://stackoverflow.com/questions/77399554/decimal-numbers-not-working-for-the-span-keyword-used-in-grid-layout-line-placem) - I asked this question on StackOverflow about the issue I described [here](#issues-faced). The answer was really helpful.
 
 ## Author
 
